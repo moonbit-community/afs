@@ -1,0 +1,19 @@
+{
+  "name": "allwefantasy/afs",
+  "version": "0.1.0",
+  "deps": {
+    "moonbitlang/async": "0.5.3",
+    "tonyfettes/encoding": "0.3.7"
+  },
+  "readme": "README.md",
+  "repository": "",
+  "license": "Apache-2.0",
+  "keywords": [
+    "filesystem",
+    "async",
+    "io",
+    "moonbit"
+  ],
+  "description": "Async Filesystem API for MoonBit - 极易用、强类型、可取消、可超时、原子可恢复、错误可观测",
+  "preferred-target": "native"
+}
